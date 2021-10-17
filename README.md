@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-I'm looking forward to collaborate on your project, or your collaboration on my project.
+My favourite technologies and domains are backend web development and cryptography within cybersecurity.
