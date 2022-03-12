@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there :wave:
 
 I like complicated stuff and [mermaid](https://github.com/mermaid-js).
 
