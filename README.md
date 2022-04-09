@@ -1,13 +1,9 @@
-### Hi there :wave:
+### Tervist :wave:
 
-I like complicated stuff and [mermaid](https://github.com/mermaid-js).
+🇬🇧 / 🇷🇺 / 🇳🇱 / 🇫🇷 / 🇪🇪
 
-My favourite domains are web development&#8212;especially back-end web
-development&#8212;as well as cybersecurity and cryptography. I mostly
-work with JavaScript and Node.js, but some projects deviate from
-those languages.
+I like [mermaid](https://github.com/mermaid-js) and chess.
 
-If you'd like to collaborate on one of my projects, or want me to
-collaborate on one of your projects, I'd be more than happy to do
-that. Query me on irc.libera.chat (`/query msfninja`) or [send an
-e-mail](mailto:msfninja@pm.me).
+Mes domaines préférés sont le développement web&#8212;en particulier le back-end&#8212;ainsi que la cybersécurité et la cryptographie. В основном работаю с JavaScript и Node.js, но некоторые проекты отклоняются от этих языков.
+
+Als je wilt meewerken aan een van mijn projecten, of als je wilt dat ik meewerk aan een van jouw projecten, dan doe ik dat met alle plezier. Küsi minult irc.libera.chat või chat.freenode.net (`/query msfninja`) või [saada e-kiri](mailto:msfnnja@pm.me).
