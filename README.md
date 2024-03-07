@@ -4,9 +4,7 @@
 </p>
 
 <p>
-	Master in SvelteKit. My go-to stack for website development is MongoDB, Express.js, SvelteKit
-	and Tailwind CSS.<br />
-	Let's get into a video call and discuss how my team can bring your vision to life!
+	Master in SvelteKit. Let's get into a video call and discuss how my team can bring your vision to life!
 </p>
 
 <p>
