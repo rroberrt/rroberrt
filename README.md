@@ -1,10 +1,10 @@
-<h3>Designer, Full Stack Developer</h3>
+<h4>Full Stack Developer</h4>
 <p>
-	<sup><a href="https://robert-cv.tiiny.site">View my CV →</a></sup>
+    <sup><a href="https://robert-cv.tiiny.site">View my CV →</a></sup>
 </p>
 
 <p>
-	Master in SvelteKit. Let's get into a video call and discuss how my team can bring your vision to life!
+	Master in SvelteKit, experienced in full stack development and DevOps.
 </p>
 
 <p>
@@ -12,7 +12,7 @@
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<sub><strong>ᴇᴍᴀɪʟ</strong></sub>
 	<br />
-	<span>+31 6 12 36 21 05</span>
+	<a href="https://wa.me/+31612362105">+31 6 12 36 21 05</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<span>robert@kerig.ee</span>
+	<a href="mailto:sizarov.r@gmail.com">sizarov.r@gmail.com</a>
 </p>
