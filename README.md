@@ -1,18 +1,18 @@
-<h3>Designer, Full Stack Developer</h3>
+<h4>Full Stack Developer</h4>
 <p>
-	<sup><a href="https://robert-cv.tiiny.site">View my CV →</a></sup>
+    <sup><a href="https://robert-cv.tiiny.site">View my CV →</a></sup>
 </p>
 
 <p>
-	Master in SvelteKit. Let's get into a video call and discuss how my team can bring your vision to life!
+	Master in SvelteKit, 5+ years in full stack development in freelance, small business and large fintech enterprise. IBM and Google certified in DevOps and UX design.
 </p>
 
 <p>
-	<sub><strong>ᴡʜᴀᴛsᴀᴘᴘ</strong>&nbsp;&nbsp;</sub>
+	<sub><sup><strong>WHATSAPP</strong>&nbsp;</sup>&nbsp;&nbsp;</sub>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<sub><strong>ᴇᴍᴀɪʟ</strong></sub>
+	<sub><sup><strong>EMAIL</strong></sup></sub>
 	<br />
-	<span>+31 6 12 36 21 05</span>
+	<a href="https://wa.me/+31612362105">+31 6 12 36 21 05</a>
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<span>robert@kerig.ee</span>
+	<a href="mailto:robert@kerig.ee">robert@kerig.ee</a>
 </p>
