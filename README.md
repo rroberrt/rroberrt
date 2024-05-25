@@ -4,7 +4,7 @@
 </p>
 
 <p>
-	Master in SvelteKit, 5+ years in full stack development in freelance, small business and large fintech enterprise. IBM and Google certified in DevOps and UX design.
+	Master in SvelteKit. IBM certified in DevOps with 5+ years in full stack development in freelance, small business and large fintech enterprise.
 </p>
 
 <p>
