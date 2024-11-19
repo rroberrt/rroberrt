@@ -1,9 +1,5 @@
----
 name: User Story
-about: This template is for creating user stories.
-title: ''
-labels: ''
-assignees: ''
+description: This template is for creating user stories.
 body:
   - type: input
     attributes:
@@ -36,4 +32,3 @@ body:
         When ...
         Then ...
       render: gherkin
----
