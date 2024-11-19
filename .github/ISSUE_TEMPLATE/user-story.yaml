@@ -1,0 +1,43 @@
+name: User Story
+about: This template is for creating user stories.
+title: ''
+labels: ''
+assignees: ''
+body:
+  - type: input
+    attributes:
+      label: As a
+      placeholder: Role...
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: I need
+      placeholder: A function...
+    validations:
+      required: true
+  - type: input
+    attributes:
+      label: So that
+      placeholder: I get some benefit...
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        ### Details and Assumptions
+  - type: textarea
+    attributes:
+      placeholder: Document what you know
+      render: markdown
+  - type: markdown
+    attributes:
+      value: |
+        ### Acceptance Criteria
+  - type: textarea
+    attributes:
+      value: |
+        Given ...
+        When ...
+        Then ...
+      render: gherkin
