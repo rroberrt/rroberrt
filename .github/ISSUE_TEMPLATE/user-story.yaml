@@ -1,3 +1,4 @@
+---
 name: User Story
 about: This template is for creating user stories.
 title: ''
@@ -22,22 +23,17 @@ body:
       placeholder: I get some benefit...
     validations:
       required: true
-  - type: markdown
-    attributes:
-      value: |
-        ### Details and Assumptions
   - type: textarea
     attributes:
+      label: Details and Assumptions
       placeholder: Document what you know
       render: markdown
-  - type: markdown
-    attributes:
-      value: |
-        ### Acceptance Criteria
   - type: textarea
     attributes:
+      label: Acceptance Criteria
       value: |
         Given ...
         When ...
         Then ...
       render: gherkin
+---
