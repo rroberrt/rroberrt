@@ -22,11 +22,12 @@ body:
   - type: textarea
     attributes:
       label: Details and Assumptions
-      placeholder: Document what you know
+      placeholder: Document what you know (Markdown syntax supported)
       render: markdown
   - type: textarea
     attributes:
       label: Acceptance Criteria
+      description: (Gherkin Syntax)
       value: |
         Given ...
         When ...
